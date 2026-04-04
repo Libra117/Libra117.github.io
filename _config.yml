@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rongxin Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "CAS Key Laboratory of AI Safety, Institute of Computing Technology, CAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Libra117" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
