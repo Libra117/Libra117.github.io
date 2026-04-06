@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chen Rongxin's Homepage"
-description              : "Chen Rongxin xxxxxxxx. "
+description              : 
 repository               : "Libra117/Libra117.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Rongxin Chen"
+  name             : "Rongxin Chen(陈荣鑫)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "CAS Key Laboratory of AI Safety, Institute of Computing Technology, CAS"
   location         : "Beijing, China"
