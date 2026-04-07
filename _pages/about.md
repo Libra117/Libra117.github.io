@@ -44,7 +44,7 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 
   - Proposed HAG to decompose and model the conditional joint distribution of demographic attributes, enabling topic-adaptive population distribution trees. We also introduced the PACE evaluation framework for statistical-semantic dual-level assessment, achieving significant reduction in demographic errors.
 
-  ([Paper](https://arxiv.org/pdf/2601.05656))&nbsp;([Code](https://github.com/Libra117/HAG))&nbsp;([Slides](你的PPT链接))&nbsp;([Poster](你的海报链接))
+  ([Paper](https://arxiv.org/pdf/2601.05656))&nbsp;([Code](https://github.com/Libra117/HAG))&nbsp;([Slides](https://arxiv.org/pdf/2601.05656))&nbsp;([Poster](https://arxiv.org/pdf/2601.05656))
   </div>
 </div>
 
@@ -70,18 +70,19 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 </div>
 
 # 🎖 Honors and Awards
-- *2026.01* Hua Luogeng Master Award (**The only recipient** in the institute), ICT CAS.
-- 
-- *2023.09* **National Scholarship** for Undergraduates. 
-- *2023.07* **Finalist Winner** in the American Region Mathematical Contest in Modeling.
-- *2023.03* **National Gold Award** in the 13th "Challenge Cup" National College Student Entrepreneurship Plan Competition. 
+- *2026* Hua Luogeng Master Award (**The only recipient** in the institute), ICT CAS.
+- *2025* E Fund FinTech Freshman Award, ICT CAS.
+- *2023* **National Scholarship** for Undergraduates.
+- *2023* National Encouragement Scholarship, Ministry of Education.
+- *2023* **Finalist Winner** in the American Region Mathematical Contest in Modeling.
+- *2023* **National Gold Award** in the 13th "Challenge Cup" National College Student Entrepreneurship Plan Competition. 
 
 # 📖 Educations
 - *2024.09 - 2027.07 (Expected)*, Master in Computer Science and Technology, UCAS - ICT CAS. 
-- *2020.09 - 2024.07*, Bachelor in Software Engineering (Artificial Intelligence), Northeastern University. 
+- *2020.09 - 2024.07*, Bachelor in Software Engineering (Artificial Intelligence), NEU. 
 
 # 💬 Presentations
 - *2026.02*, Poster presentation at WSDM 2026, Boise, USA. 
-- *2025.11*, Oral presentation at LASS Workshop of CIKM 2025, Seoul, South Korea. 
 - *2025.11*, Poster at the 13th National Conference on Social Media Processing, Wuhan, China.
+- *2025.11*, Oral presentation at LASS Workshop of CIKM 2025, Seoul, South Korea. 
 
