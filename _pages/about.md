@@ -65,7 +65,7 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 
   - Proposed MPG, a flexible and robust decoding-time generation framework for multi-personality LLMs without requiring extra training or external reward models. We also designed the SCR algorithm for efficient generation, achieving significant improvements in MBTI simulation and role-playing experiments.
 
-  ([Paper](https://dl.acm.org/doi/abs/10.1145/3773966.3777945))&nbsp;([Code](https://github.com/Libra117/MPG))&nbsp;([Slides](https://github.com/Libra117/Libra117.github.io/blob/main/files/MPG-slides.pdf))&nbsp;([Poster](https://github.com/Libra117/Libra117.github.io/blob/main/files/MPG_poster_WSDM.pdf))
+  ([Paper](https://dl.acm.org/doi/abs/10.1145/3773966.3777945))&nbsp;([Code](https://github.com/Libra117/MPG))&nbsp;([Slides](/files/MPG-slides.pdf))&nbsp;([Poster](/files/MPG_poster_WSDM.pdf))
   </div>
 </div>
 
