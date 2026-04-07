@@ -39,6 +39,8 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
   [HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation](https://arxiv.org/pdf/2601.05656)
 
   **Rongxin Chen**, Tianyu Wu, Bingbing Xu*, Jiatang Luo, Xiucheng Xu, Huawei Shen
+  
+  *ACL 2026 (Main) Oral*
 
   - Proposed HAG to decompose and model the conditional joint distribution of demographic attributes, enabling topic-adaptive population distribution trees. We also introduced the PACE evaluation framework for statistical-semantic dual-level assessment, achieving significant reduction in demographic errors.
 
@@ -46,17 +48,25 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">WSDM 2026</div>
+      <img src='images/mpg_paper_figure.png' alt="MPG paper figure" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[Multi-Personality Generation of LLMs at Decoding-time](https://dl.acm.org/doi/abs/10.1145/3773966.3777945)
+  [Multi-Personality Generation of LLMs at Decoding-time](https://dl.acm.org/doi/abs/10.1145/3773966.3777945)
 
-**Rongxin Chen**, Yunfan Li, Yige Yuan, Bingbing Xu*, Huawei Shen
+  **Rongxin Chen**, Yunfan Li, Yige Yuan, Bingbing Xu*, Huawei Shen
 
-*WSDM 2026 (Accepted)* & *LASS Workshop of CIKM 2025 (Outstanding Paper)*
-- Proposed MPG, a flexible and robust decoding-time generation framework for multi-personality LLMs without requiring extra training or external reward models.
-- Designed the SCR algorithm for efficient generation, achieving significant improvements in MBTI simulation and role-playing experiments.
-</div>
+  *WSDM 2026* & *LASS Workshop of CIKM 2025 (Outstanding Paper)*
+
+  - Proposed MPG, a flexible and robust decoding-time generation framework for multi-personality LLMs without requiring extra training or external reward models. We also designed the SCR algorithm for efficient generation, achieving significant improvements in MBTI simulation and role-playing experiments.
+
+  ([Paper](https://dl.acm.org/doi/abs/10.1145/3773966.3777945))&nbsp;([Code](你的代码仓库链接))&nbsp;([Slides](你的PPT链接))&nbsp;([Poster](你的海报链接))
+  </div>
 </div>
 
 # 🎖 Honors and Awards
