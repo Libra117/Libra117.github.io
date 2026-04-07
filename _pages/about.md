@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am Rongxin Chen, currently a Master's student in Computer Science and Technology at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I received my Bachelor's degree from the Software College of Northeastern University (NEU). My research interests focus on **LLM Agent, Personalization, Alignment, RolePlaying, and Social Simulation**.
+**<span style="color: red;">I expect to graduate in 2027 and am currently on the job market! If you are interested in me, please feel free to contact me.🔥</span>**
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Our paper ["HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation"](https://arxiv.org/pdf/2601.05656) was accepted in **ACL 2026 (Main) Oral**!
@@ -68,6 +69,12 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
   ([Paper](https://dl.acm.org/doi/abs/10.1145/3773966.3777945))&nbsp;([Code](https://github.com/Libra117/MPG))&nbsp;([Slides](/files/MPG-slides.pdf))&nbsp;([Poster](/files/MPG_poster_WSDM.pdf))
   </div>
 </div>
+
+<style>
+  /* 强制去掉论文列表底部的灰线和标题顶部的灰线 */
+  .paper-box { border-bottom: none !important; }
+  h1 { border-top: none !important; }
+</style>
 
 # 🎖 Honors and Awards
 - *2026* Hua Luogeng Master Award (**The only recipient** in the institute), ICT CAS.
