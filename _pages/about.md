@@ -17,42 +17,50 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+[cite_start]I am Rongxin Chen [cite: 2][cite_start], currently a Master's student in Computer Science and Technology at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) and the University of Chinese Academy of Sciences (UCAS)[cite: 4]. [cite_start]I received my Bachelor's degree from the Software College of Northeastern University[cite: 6]. [cite_start]My research interests focus on LLM Agent, Personalization, Alignment, Social Simulation, and RolePlaying[cite: 5].
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [cite_start]*2025.10*: &nbsp;🎉🎉 Our paper "Multi-Personality Generation of LLMs at Decoding-time" was accepted by WSDM 2026[cite: 21, 22, 23].
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[cite_start][Multi-Personality Generation of LLMs at Decoding-time](https://github.com/YOUR_LINK_HERE) [cite: 21]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[cite_start]**Rongxin Chen**, Yunfan Li, Yige Yuan, Bingbing Xu, Huawei Shen [cite: 23]
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[cite_start]*WSDM 2026 (Accepted)* & *LASS Workshop of CIKM 2025 (Outstanding Paper)* [cite: 23]
+- [cite_start]Proposed MPG, a flexible and robust decoding-time generation framework for multi-personality LLMs without requiring extra training or external reward models[cite: 23].
+- [cite_start]Designed the SCR algorithm for efficient generation, achieving significant improvements in MBTI simulation and role-playing experiments[cite: 23].
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[cite_start][Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation](https://github.com/YOUR_LINK_HERE) [cite: 24]
+
+[cite_start]**Rongxin Chen** [cite: 24]
+
+[cite_start]*ACL 2026 (Under Review)* [cite: 24]
+- [cite_start]Proposed HAG to decompose and model the conditional joint distribution of demographic attributes, enabling topic-adaptive population distribution trees[cite: 24].
+- [cite_start]Introduced the PACE evaluation framework for statistical-semantic dual-level assessment[cite: 24].
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [cite_start]Hua Luogeng Master Award (The only recipient in the institute), Institute of Computing Technology[cite: 6].
+- [cite_start]National Scholarship for Undergraduates[cite: 9].
+- [cite_start]*2023.07* National Gold Award in the 13th "Challenge Cup" National College Student Entrepreneurship Plan Competition[cite: 37, 42].
+- [cite_start]*2023.05* Finalist & Meritorious Winner in the American Region Mathematical Contest in Modeling[cite: 36, 42].
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [cite_start]*2024.09 - 2027.07 (Expected)*, Master in Computer Science and Technology, University of Chinese Academy of Sciences - Institute of Computing Technology[cite: 4].
+- [cite_start]*2020.09 - 2024.07*, Bachelor in Software Engineering (Artificial Intelligence), Northeastern University[cite: 6, 8].
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Presentations
+- [cite_start]*2026.02*, Poster presentation at WSDM 2026, Boise, USA[cite: 49].
+- [cite_start]*2025.11*, Oral presentation at LASS Workshop of CIKM 2025, Seoul, South Korea[cite: 48].
+- [cite_start]*2025.11*, Poster at the 13th National Conference on Social Media Processing, Wuhan, China[cite: 49].
