@@ -17,33 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Rongxin Chen, currently a Master's student in Computer Science and Technology at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) and the University of Chinese Academy of Sciences (UCAS). I received my Bachelor's degree from the Software College of Northeastern University. My research interests focus on LLM Agent, Personalization, Alignment, Social Simulation, and RolePlaying.
+I am Rongxin Chen, currently a Master's student in Computer Science and Technology at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). I received my Bachelor's degree from the Software College of Northeastern University (NEU). My research interests focus on **LLM Agent, Personalization, Alignment, RolePlaying, and Social Simulation**.
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Our paper "Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation" was accepted by **ACL 2026 (Main)**!
-- *2025.10*: &nbsp;🎉🎉 Our paper "Multi-Personality Generation of LLMs at Decoding-time" was accepted by WSDM 2026.
+- *2026.04*: &nbsp;🎉🎉 Our paper ["HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation"](https://arxiv.org/pdf/2601.05656) was accepted in **ACL 2026 (Main) Oral**!
+- *2025.11*: &nbsp;🥳 Presented a poster at the **13th National Conference on Social Media Processing (SMP 2025)** in Wuhan, China.
+- *2025.11*: &nbsp;🎉🎉 Gave an Oral presentation on ["Multi-Personality Generation of LLMs at Decoding-time"](https://dl.acm.org/doi/abs/10.1145/3773966.3777945) at **The 1st Workshop on LLM Agents for Social Simulation (CIKM 2025)** in Seoul, Korea, and received the **Outstanding Paper** award.
+- *2025.10*: &nbsp;🎉🎉 Our paper ["Multi-Personality Generation of LLMs at Decoding-time"](https://dl.acm.org/doi/abs/10.1145/3773966.3777945) was accepted in **WSDM 2026**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2026 Main Oral</div>
+      <img src='images/hag_paper_figure.png' alt="HAG paper figure" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation](https://arxiv.org/pdf/2601.05656)
+  [HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation](https://arxiv.org/pdf/2601.05656)
 
-**Rongxin Chen**
+  **Rongxin Chen**, Tianyu Wu, Bingbing Xu*, Jiatang Luo, Xiucheng Xu, Huawei Shen
 
-*ACL 2026 (Main)*
-- Proposed HAG to decompose and model the conditional joint distribution of demographic attributes, enabling topic-adaptive population distribution trees.
-- Introduced the PACE evaluation framework for statistical-semantic dual-level assessment, achieving significant reduction in demographic errors.
-</div>
+  - Proposed HAG to decompose and model the conditional joint distribution of demographic attributes, enabling topic-adaptive population distribution trees. We also introduced the PACE evaluation framework for statistical-semantic dual-level assessment, achieving significant reduction in demographic errors.
+
+  ([Paper](https://arxiv.org/pdf/2601.05656))&nbsp;([Code](你的代码仓库链接))&nbsp;([Slides](你的PPT链接))&nbsp;([Poster](你的海报链接))
+  </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-Personality Generation of LLMs at Decoding-time](https://github.com/YOUR_LINK_HERE)
+[Multi-Personality Generation of LLMs at Decoding-time](https://dl.acm.org/doi/abs/10.1145/3773966.3777945)
 
-**Rongxin Chen**, Yunfan Li, Yige Yuan, Bingbing Xu, Huawei Shen
+**Rongxin Chen**, Yunfan Li, Yige Yuan, Bingbing Xu*, Huawei Shen
 
 *WSDM 2026 (Accepted)* & *LASS Workshop of CIKM 2025 (Outstanding Paper)*
 - Proposed MPG, a flexible and robust decoding-time generation framework for multi-personality LLMs without requiring extra training or external reward models.
@@ -52,10 +60,11 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 </div>
 
 # 🎖 Honors and Awards
-- Hua Luogeng Master Award (The only recipient in the institute), ICT CAS. 
-- National Scholarship for Undergraduates. 
-- *2023.07* National Gold Award in the 13th "Challenge Cup" National College Student Entrepreneurship Plan Competition. 
-- *2023.05* Finalist & Meritorious Winner in the American Region Mathematical Contest in Modeling. 
+- *2026.01* Hua Luogeng Master Award (**The only recipient** in the institute), ICT CAS.
+- 
+- *2023.09* **National Scholarship** for Undergraduates. 
+- *2023.07* **Finalist Winner** in the American Region Mathematical Contest in Modeling.
+- *2023.03* **National Gold Award** in the 13th "Challenge Cup" National College Student Entrepreneurship Plan Competition. 
 
 # 📖 Educations
 - *2024.09 - 2027.07 (Expected)*, Master in Computer Science and Technology, UCAS - ICT CAS. 
