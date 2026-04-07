@@ -52,17 +52,17 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 </div>
 
 # 🎖 Honors and Awards
-- [cite_start]Hua Luogeng Master Award (The only recipient in the institute), ICT CAS. 
-- [cite_start]National Scholarship for Undergraduates. 
-- [cite_start]*2023.07* National Gold Award in the 13th "Challenge Cup" National College Student Entrepreneurship Plan Competition. 
-- [cite_start]*2023.05* Finalist & Meritorious Winner in the American Region Mathematical Contest in Modeling. 
+- Hua Luogeng Master Award (The only recipient in the institute), ICT CAS. 
+- National Scholarship for Undergraduates. 
+- *2023.07* National Gold Award in the 13th "Challenge Cup" National College Student Entrepreneurship Plan Competition. 
+- *2023.05* Finalist & Meritorious Winner in the American Region Mathematical Contest in Modeling. 
 
 # 📖 Educations
-- [cite_start]*2024.09 - 2027.07 (Expected)*, Master in Computer Science and Technology, UCAS - ICT CAS. 
-- [cite_start]*2020.09 - 2024.07*, Bachelor in Software Engineering (Artificial Intelligence), Northeastern University. 
+- *2024.09 - 2027.07 (Expected)*, Master in Computer Science and Technology, UCAS - ICT CAS. 
+- *2020.09 - 2024.07*, Bachelor in Software Engineering (Artificial Intelligence), Northeastern University. 
 
 # 💬 Presentations
-- [cite_start]*2026.02*, Poster presentation at WSDM 2026, Boise, USA. 
-- [cite_start]*2025.11*, Oral presentation at LASS Workshop of CIKM 2025, Seoul, South Korea. 
-- [cite_start]*2025.11*, Poster at the 13th National Conference on Social Media Processing, Wuhan, China.
+- *2026.02*, Poster presentation at WSDM 2026, Boise, USA. 
+- *2025.11*, Oral presentation at LASS Workshop of CIKM 2025, Seoul, South Korea. 
+- *2025.11*, Poster at the 13th National Conference on Social Media Processing, Wuhan, China.
 
