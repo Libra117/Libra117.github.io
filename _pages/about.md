@@ -65,6 +65,3 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 - *2025.11*, Oral presentation at LASS Workshop of CIKM 2025, Seoul, South Korea.
 - *2025.11*, Poster at the 13th National Conference on Social Media Processing, Wuhan, China.
 
-# 💻 Internships
-- *2025.03 - Present*, LLM Algorithm Engineer, Baichuan Intelligent Technology.
-- *2024.01 - 2024.12*, Core Member for the Anthropomorphic LLM Construction Project (Specific Role-Playing).
