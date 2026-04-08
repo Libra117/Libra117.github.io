@@ -22,9 +22,10 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Our paper ["HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation"](https://arxiv.org/pdf/2601.05656) was accepted in **ACL 2026 (Main) Oral**!
+- *2026.01*: &nbsp;🎉🎉 Honored to receive the Hua Luogeng Master Award (**The only recipient** in the institute) at ICT, CAS!
 - *2025.11*: &nbsp;🥳 Presented a poster at the **13th National Conference on Social Media Processing (SMP 2025)** in Wuhan, China.
-- *2025.11*: &nbsp;🎉🎉 Gave an Oral presentation on ["Multi-Personality Generation of LLMs at Decoding-time"](https://dl.acm.org/doi/abs/10.1145/3773966.3777945) at **The 1st Workshop on LLM Agents for Social Simulation (CIKM 2025)** in Seoul, Korea, and received the **Outstanding Paper** award.
-- *2025.10*: &nbsp;🎉🎉 Our paper ["Multi-Personality Generation of LLMs at Decoding-time"](https://dl.acm.org/doi/abs/10.1145/3773966.3777945) was accepted in **WSDM 2026**.
+- *2025.11*: &nbsp;🎉🎉 Gave an Oral presentation on ["Multi-Personality Generation of LLMs at Decoding-time"](https://dl.acm.org/doi/abs/10.1145/3773966.3777945) at **The 1st Workshop on LLM Agents for Social Simulation (CIKM 2025)** in Seoul, Korea, and received the **Outstanding Paper** award!
+- *2025.10*: &nbsp;🎉🎉 Our paper ["Multi-Personality Generation of LLMs at Decoding-time"](https://dl.acm.org/doi/abs/10.1145/3773966.3777945) was accepted in **WSDM 2026**!
 
 # 📝 Publications 
 
