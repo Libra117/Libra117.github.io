@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Rongxin Chen(陈荣鑫)"
+  name             : "Rongxin Chen<br>(陈荣鑫)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "CAS Key Laboratory of AI Safety, Institute of Computing Technology, CAS"
   location         : "Beijing, China"
