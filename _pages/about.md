@@ -21,7 +21,7 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 **<span style="color: red;">I expect to graduate in 2027 and am currently on the job market! If you are interested in me, please feel free to contact me.🔥</span>**
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Our paper ["HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation"](https://arxiv.org/pdf/2601.05656) was accepted in **ACL 2026 (Main) Oral**!
+- *2026.04*: &nbsp;🎉🎉 Our paper ["HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation"](https://arxiv.org/pdf/2601.05656) was accepted in **ACL 2026 (Main)**!
 - *2026.01*: &nbsp;🎉🎉 Honored to receive the Hua Luogeng Master Award (**The only recipient** in the institute) at ICT, CAS!
 - *2025.11*: &nbsp;🥳 Presented a poster at the **13th National Conference on Social Media Processing (SMP 2025)** in Wuhan, China.
 - *2025.11*: &nbsp;🎉🎉 Gave an Oral presentation on ["Multi-Personality Generation of LLMs at Decoding-time"](https://dl.acm.org/doi/abs/10.1145/3773966.3777945) at **The 1st Workshop on LLM Agents for Social Simulation (CIKM 2025)** in Seoul, Korea, and received the **Outstanding Paper** award!
@@ -42,7 +42,7 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 
   **Rongxin Chen**, Tianyu Wu, Bingbing Xu*, Jiatang Luo, Xiucheng Xu, Huawei Shen
   
-  *ACL 2026 (Main) Oral*
+  *ACL 2026 (Main)*
 
   - Proposed HAG to decompose and model the conditional joint distribution of demographic attributes, enabling topic-adaptive population distribution trees. We also introduced the PACE evaluation framework for statistical-semantic dual-level assessment, achieving significant reduction in demographic errors.
 
