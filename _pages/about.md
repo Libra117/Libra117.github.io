@@ -32,7 +32,7 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ACL 2026 Main Oral</div>
+      <div class="badge">ACL 2026 Main</div>
       <img src='images/hag_paper_figure.png' alt="HAG paper figure" width="100%">
     </div>
   </div>
