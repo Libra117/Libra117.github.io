@@ -46,7 +46,7 @@ I am Rongxin Chen, currently a Master's student in Computer Science and Technolo
 
   - Proposed HAG to decompose and model the conditional joint distribution of demographic attributes, enabling topic-adaptive population distribution trees. We also introduced the PACE evaluation framework for statistical-semantic dual-level assessment, achieving significant reduction in demographic errors.
 
-  ([Paper](https://arxiv.org/pdf/2601.05656))&nbsp;([Code](https://github.com/Libra117/HAG))&nbsp;([Slides](https://arxiv.org/pdf/2601.05656))&nbsp;([Poster](https://arxiv.org/pdf/2601.05656))
+  ([Paper](https://arxiv.org/pdf/2601.05656))&nbsp;([Code](https://github.com/Libra117/HAG))&nbsp;([Slides](/files/HAG-slides.pdf))&nbsp;([Poster](/files/ACL 2026_main-2920.pdf))
   </div>
 </div>
 
